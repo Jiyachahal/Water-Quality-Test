@@ -21,13 +21,15 @@ The dataset, `water_potability.csv`, includes key water quality parameters. Afte
 - Logistic Regression performed well for simpler use cases.
 
 
-## Usage
 
-1. Clone the repository:
+
+## How to Run the Project
+1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/water-quality-test.git
-   cd water-quality-test
-
+   git clone https://github.com/Jiyachahal/Water-Quality-Test.git
+2. **Open and Run the Jupyter Notebook:**
+    [View the Jupyter Notebook](./code.ipynb)
+   
 ## Key Files
 - code.ipynb: Contains the entire workflow, including preprocessing, modeling, and evaluation.
 - water_potability.csv: Dataset used for analysis.
